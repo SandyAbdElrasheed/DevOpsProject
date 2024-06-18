@@ -7,4 +7,4 @@ execution:
 scenarios:
   quick-test:
     requests:
-    - http://blazedemo.com:8080
+    - http://blazedemo.com
